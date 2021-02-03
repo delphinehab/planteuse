@@ -1,4 +1,4 @@
 class Booking < ApplicationRecord
-  belongs_to :plant
+  belongs_to :product
   belongs_to :user
 end
