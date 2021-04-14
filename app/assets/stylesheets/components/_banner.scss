@@ -1,0 +1,19 @@
+.banner {
+  background-image: asset-url("banner.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 392px;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.banner h1 {
+  color: white;
+  text-align: center;
+  width:100%;
+}
